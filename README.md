@@ -1,2 +1,2 @@
-# Music-streamer-app-for-discord
+# Streamer
 
